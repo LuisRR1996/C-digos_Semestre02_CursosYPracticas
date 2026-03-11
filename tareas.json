@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "titulo": "Dise\u00f1ar la interfaz we",
+        "descripcion": "Hacer el prototipo en Figma",
+        "estado": "En Progreso",
+        "prioridad": "Alta",
+        "fecha_vencimiento": "2026-03-10"
+    },
+    {
+        "id": 2,
+        "titulo": "Configurar el servidor",
+        "descripcion": "Instalar Python y librer\u00edas",
+        "estado": "Pendiente",
+        "prioridad": "Media",
+        "fecha_vencimiento": "2026-03-10"
+    }
+]
